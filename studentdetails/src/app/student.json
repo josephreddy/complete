@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "name": "sri lakshmi",
+      "coursename": "angularjs ",
+      "place": "gnt",
+      "projectname": "sample36",
+      "id": 4
+    },
+    {
+      "name": "siva",
+      "coursename": "js",
+      "place": "hyd",
+      "projectname": "run",
+      "id": 5
+    }
+  ]
+}
